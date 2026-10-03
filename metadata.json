@@ -1,0 +1,6 @@
+{
+  "name": "LockerBox - Student Digital Locker",
+  "description": "A private digital locker where students store and access all their important documents, certificates, and personal info securely in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
